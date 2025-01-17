@@ -1,0 +1,7 @@
+django==5.1
+djangorestframework
+channels
+channels-redis
+daphne
+psycopg2-binary
+asyncio
