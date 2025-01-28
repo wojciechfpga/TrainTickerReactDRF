@@ -1,0 +1,16 @@
+.train-list {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .train {
+    background-color: #333;
+    margin: 10px 0;
+    padding: 15px;
+    border: 1px solid #fff;
+  }
+  
+  .train h2 {
+    color: #bbb;
+  }
