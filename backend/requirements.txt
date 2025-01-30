@@ -6,3 +6,4 @@ daphne
 psycopg2-binary
 asyncio
 dj-database-url
+django-redis
