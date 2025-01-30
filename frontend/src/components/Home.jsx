@@ -8,6 +8,7 @@ const Home = () => {
       <h1>Welcome to the Train App</h1>
       <p>Click on "Trains" to see the list of trains.</p>
       <Link to="/trains">Go to Train List</Link>
+      <Link to="/createtrain">Create train</Link>
     </div>
   );
 };
